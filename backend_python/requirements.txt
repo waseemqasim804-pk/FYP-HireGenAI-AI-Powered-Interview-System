@@ -1,0 +1,17 @@
+python-dotenv
+PyMuPDF
+opencv-python
+numpy
+pillow
+pytesseract
+pyttsx3
+SpeechRecognition
+tensorflow
+torch
+torchvision
+torchaudio
+fastapi
+uvicorn
+matplotlib
+mediapipe
+mediapipe
